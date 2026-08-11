@@ -13,4 +13,7 @@ __pycache__/
 uv.lock
 
 # macOS
+.DS_StoreProjet_05/fish_dataset/
+
 .DS_Store
+Projet_05/fish_dataset/
