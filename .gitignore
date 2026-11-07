@@ -10,7 +10,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-uv.lock
+.vscode/
 
 # macOS
 .DS_StoreProjet_05/fish_dataset/
